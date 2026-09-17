@@ -12,8 +12,6 @@ redirect_from:
 
 ## Education
 
-## Education
-
 **UNSW Sydney**  
 Ph.D. in Computer Science, School of Computer Science and Engineering  
 2026–Present

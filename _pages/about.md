@@ -17,7 +17,7 @@ Education
 Ph.D. in Computer Science, School of Computer Science and Engineering, 2026–Present
 
 **Wuhan University**  
-M.S. in Computer Science, School of Computer Science, 2023–2026
+M.S. in Computer Science, School of Computer Science, 2023–2026<br>
 B.S. in Computer Science, School of Computer Science, 2019–2023
 
 

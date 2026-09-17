@@ -14,22 +14,18 @@ Education
 ======
 
 **UNSW Sydney**  
-Ph.D. in Computer Science, School of Computer Science and Engineering  
-2026–Present
+Ph.D. in Computer Science, School of Computer Science and Engineering, 2026–Present
 
 **Wuhan University**  
-M.S. in Computer Science, School of Computer Science  
-2023–2026
+M.S. in Computer Science, School of Computer Science, 2023–2026
+B.S. in Computer Science, School of Computer Science, 2019–2023
 
-**Wuhan University**  
-B.S. in Computer Science, School of Computer Science  
-2019–2023
 
 Publication
 ======
 
 **Pyls: Enabling Python Hardware Synthesis with Dynamic Polymorphism via LCRS Encoding**  
 **Bolei Tong**, Yongyan Fang, Chaorui Wang, Qingan Li, Jingling Xue, Mengting Yuan  
-*CGO 2026: IEEE/ACM International Symposium on Code Generation and Optimization*, pp. 123–135.  
+*CGO 2026: IEEE/ACM International Symposium on Code Generation and Optimization*
 [Paper](https://doi.org/10.1109/CGO68049.2026.11394843) · [Conference Page](https://2026.cgo.org/details/cgo-2026-papers/42/Pyls-Enabling-Python-Hardware-Synthesis-with-Dynamic-Polymorphism-via-LCRS-Encoding)
 

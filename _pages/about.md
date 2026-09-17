@@ -12,7 +12,17 @@ redirect_from:
 
 ## Education
 
-- **Ph.D. in Computer Science**, School of Computer Science and Engineering, University of New South Wales, 2026–present
-- **M.S. in Computer Science**, School of Computer Science, Wuhan University, 2023–2026
-- **B.S. in Computer Science**, School of Computer Science, Wuhan University, 2019–2023
+## Education
+
+**UNSW Sydney**  
+Ph.D. in Computer Science, School of Computer Science and Engineering  
+2026–Present
+
+**Wuhan University**  
+M.S. in Computer Science, School of Computer Science  
+2023–2026
+
+**Wuhan University**  
+B.S. in Computer Science, School of Computer Science  
+2019–2023
 

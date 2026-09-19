@@ -14,11 +14,11 @@ Education
 ======
 
 **UNSW Sydney**  
-Ph.D. in Engineering, School of Computer Science and Engineering, 2026–Present
+Ph.D. in Computer Science and Engineering, 2026–Present
 
 **Wuhan University**  
-M.S. in Engineering, School of Computer Science, 2023–2026<br>
-B.S. in Engineering, School of Computer Science, 2019–2023
+M.Eng. in Software Engineering, 2023–2026<br>
+B.Eng. in Computer Science and Technology, 2019–2023
 
 
 Publication

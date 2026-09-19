@@ -13,10 +13,10 @@ redirect_from:
 Education
 ======
 
-**University of New South Wales**, Sydney, Australia
+**University of New South Wales**, Sydney, Australia  
 Ph.D. in Computer Science and Engineering <span style="float:right;">Sep 2026 – Present</span>
 
-**Wuhan University**, Wuhan, China
+**Wuhan University**, Wuhan, China  
 M.E. in Software Engineering, <span style="float:right;">Sep 2023 – Jun 2026</span><br>
 B.E. in Computer Science and Technology, <span style="float:right;">Sep 2019 – Jun 2023
 

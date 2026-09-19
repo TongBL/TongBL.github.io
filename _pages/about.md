@@ -7,18 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome!** My name is Bolei Tong, and I am a PhD student at University of New South Wales. I am a member of the Programming Languages and Compilers Group led by Prof. [Jingling Xue](https://cgi.cse.unsw.edu.au/~jingling/). My research interests include High-Level Synthesis, Compiler Techniques, and Hardware Acceleration. I am always happy to connect with people who share similar interests and discuss these topics together. ☺️
+**Welcome!** My name is Bolei Tong, and I am a PhD student at University of New South Wales. I am a member of the Programming Languages and Compilers Group led by [Prof. Jingling Xue](https://cgi.cse.unsw.edu.au/~jingling/). My research interests include High-Level Synthesis, Compiler Techniques, and Hardware Acceleration. I am always happy to connect with people who share similar interests and discuss these topics together. ☺️
 
 
 Education
 ======
 
-**UNSW Sydney**  
-Ph.D. in Computer Science and Engineering, 2026–Present
+**University of New South Wales Sydney**  
+Ph.D. in Computer Science and Engineering <span style="float:right;">Sep 2026 – Present</span>
 
 **Wuhan University**  
-M.Eng. in Software Engineering, 2023–2026<br>
-B.Eng. in Computer Science and Technology, 2019–2023
+M.E. in Software Engineering, <span style="float:right;">Sep 2023 – Jun 2026</span><br>
+B.E. in Computer Science and Technology, <span style="float:right;">Sep 2019 – Jun 2023
 
 
 Publication
